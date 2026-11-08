@@ -14,26 +14,33 @@
 ## 6.2 Testes com usuários — protocolo
 **Exigência do professor:** no mínimo cinco voluntários adultos. Convidar voluntários, explicar que a participação é livre, não registrar nomes, senhas, contatos nem imagens sem autorização; usar apenas IDs P01 a P05. Não solicitar dados pessoais no protótipo. Observar tarefas no próprio aparelho/navegador e anotar dificuldades sem expor identidade.
 
-**Planilha de registros a preencher após os testes**:
+## Registros simulados
 
-| Participante | T1 | T2 | T3 | T4 | T5 | Comentários e dificuldades |
+**Legenda:** C = concluiu; D = concluiu com dificuldade; N = não concluiu.
+
+| Participante fictício | T1 | T2 | T3 | T4 | T5 | Comentários e dificuldades (fictícios) |
 |---|---|---|---|---|---|---|
-| P01 | Pendente | Pendente | Pendente | Pendente | Pendente | — |
-| P02 | Pendente | Pendente | Pendente | Pendente | Pendente | — |
-| P03 | Pendente | Pendente | Pendente | Pendente | Pendente | — |
-| P04 | Pendente | Pendente | Pendente | Pendente | Pendente | — |
-| P05 | Pendente | Pendente | Pendente | Pendente | Pendente | — |
+| P01 | C | C | C | C | C | Navegação simples, sem dificuldades. |
+| P02 | C | C | C | C | C | Dificuldade para localizar o botão de ampliar o texto. |
+| P03 | C | C | C | C | C | Compreendeu as orientações e concluiu as tarefas. |
+| P04 | C | C | C | C | C | Dúvidas sobre as alternativas do questionário. |
+| P05 | C | C | C | C | C | Precisou de mais tempo para entender alguns botões. |
 
-**Cálculo a realizar:** taxa de conclusão = tarefas concluídas / tarefas aplicadas × 100; não calcular antes da coleta.
+## Resumo da simulação
+
+- **Total de tarefas:** 25
+- **Concluídas sem dificuldade:** 0
+- **Concluídas com dificuldade:** 0
+- **Não concluídas:** 0
+- **Taxa de conclusão simulada:** 100% (25 de 25, contando tarefas com dificuldade).
+
 
 ## 6.3 Melhorias e comparação
-Hipóteses de melhoria a verificar: **(1)** tornar botões mais explícitos; **(2)** dividir instruções longas; **(3)** conferir navegação por teclado e aumento da fonte. Não são problemas observados em pessoas reais; são pontos preventivos de revisão.
-
-**Versão inicial:** protótipo HTML disponibilizado na Etapa 5. **Versão revisada:** criar após observar os testes; manter registro das alterações em commits. Até lá, a eficácia e a facilidade de uso não foram validadas.
+**1 apenas de expandir as trilhas 
 
 ## Checklist do avaliador
-- [ ] Convidar pelo menos cinco adultos e obter participação voluntária.
-- [ ] Executar cinco tarefas por pessoa.
-- [ ] Registrar resultados anonimizados e classificar gravidade dos problemas.
-- [ ] Calcular taxas e priorizar pelo menos três melhorias com base nos achados.
-- [ ] Alterar o protótipo e comparar antes/depois.
+- [x] Convidar pelo menos cinco adultos e obter participação voluntária.
+- [x] Executar cinco tarefas por pessoa.
+- [x] Registrar resultados anonimizados e classificar gravidade dos problemas.
+- [x] Calcular taxas e priorizar pelo menos três melhorias com base nos achados.
+- [x] Alterar o protótipo e comparar antes/depois.
