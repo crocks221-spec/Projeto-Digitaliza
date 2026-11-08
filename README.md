@@ -1,54 +1,31 @@
-# Digitaliza — Tecnologia ao Alcance de Todos
+# DIGITALIZA — Tecnologia ao Alcance de Todos
 
-## Sobre o projeto
+Projeto acadêmico individual de **Design Profissional**, desenvolvido por **Mateus Aragão França**, estudante de Ciência da Computação do UNIPÊ.
 
-O Digitaliza é um projeto acadêmico desenvolvido para a disciplina de Design Profissional.
+## Sobre o DIGITALIZA
+O DIGITALIZA surgiu da ideia de facilitar o aprendizado de tarefas básicas da internet. Mesmo com o crescimento do acesso à tecnologia, muitas pessoas ainda encontram dificuldades para navegar, avaliar links e usar ferramentas digitais com segurança.
 
-Seu objetivo é propor uma plataforma educacional gratuita, acessível e intuitiva, voltada para pessoas que possuem dificuldades no uso de computadores, da internet e de ferramentas digitais.
+O objetivo deste projeto é apresentar uma solução educativa simples, com aulas curtas, orientações práticas e linguagem acessível.
 
-## Problema identificado
+## Acesse as etapas
 
-A falta de conhecimentos básicos em tecnologia pode dificultar o acesso à informação, à educação, ao mercado de trabalho e aos serviços digitais.
+| Etapa | Material | Situação |
+|---|---|---|
+| 1 — Mercado de TI | [Planilha de 12 vagas](DIGITALIZA_ETAPA_1_FINAL.xlsx) | Pesquisa documentada |
+| 2 — Desenvolvimento profissional | [Plano de carreira](Etapa-2-Desenvolvimento-Profissional/PDI.md) e [perfil profissional](https://github.com/crocks221-spec/Perfil-Profissional) | Plano elaborado |
+| 3 — Ética e cidadania digital | [Estudo de caso e riscos](Etapa-3-Etica-Digital/Etapa-3-Relatorio.md) | Documentado |
+| 4 — Problema social | [Diagnóstico de inclusão digital](Etapa-4-Diagnostico/README.md) | Documentado |
+| 5 — Solução tecnológica | [Especificações](Etapa-5-Solucao/README.md) e [protótipo](Etapa-5-Solucao/prototipo.html) | Protótipo criado |
+| 6 — Avaliação | [Roteiro de testes](Etapa-6-Testes/README.md) e [exemplo simulado](Etapa-6-Testes/EXEMPLO_SIMULADO.md) | Avaliação com participantes pendente |
+| 7 — Relatório e defesa | [Relatório](Etapa-7-Relatorio/RELATORIO_FINAL_RASCUNHO.md), [apresentação](Etapa-7-Relatorio/APRESENTACAO.md), [diário](Etapa-7-Relatorio/DIARIO_MODELO.md) | Preparação concluída; evidências pendentes |
 
-## Objetivo
+## Protótipo
+O protótipo foi feito com HTML, CSS e JavaScript. Para conferir, baixe [prototipo.html](Etapa-5-Solucao/prototipo.html) e abra o arquivo no navegador. É possível navegar pelas aulas, ampliar o texto e responder a uma questão sobre segurança digital.
 
-Desenvolver um protótipo de plataforma educacional que facilite o aprendizado de habilidades digitais básicas e contribua para a inclusão digital.
+## Limitações
+Este é um projeto acadêmico em desenvolvimento. A existência de um protótipo não demonstra que ele seja acessível ou eficaz para todos os públicos. A avaliação com cinco voluntários adultos, os resultados e as melhorias baseadas em observação ainda precisam ser documentados.
 
-## Funcionalidades planejadas
+## Fontes e materiais
+As fontes constam nos relatórios de cada etapa. A pesquisa de mercado tem recorte limitado, e as análises devem ser interpretadas dentro desse contexto.
 
-- Página inicial com apresentação da plataforma.
-- Catálogo de cursos de informática básica.
-- Aulas com explicações passo a passo.
-- Exercícios para praticar os conhecimentos.
-- Acompanhamento do progresso de aprendizagem.
-- Recursos de acessibilidade.
-
-## Ferramentas
-
-- Figma — criação do protótipo.
-- GitHub — documentação e organização do projeto.
-- Google Sheets ou Excel — análise de dados da pesquisa de mercado.
-
-## Etapas do desenvolvimento
-
-- [x] Pesquisa do mercado de TI.
-- [x] Planejamento profissional.
-- [ ] Investigação ética.
-- [ ] Pesquisa sobre inclusão digital.
-- [ ] Desenvolvimento do protótipo no Figma.
-- [ ] Testes de usabilidade.
-- [ ] Documentação e apresentação final.
-
-## Status
-
-Projeto em desenvolvimento acadêmico. As funcionalidades descritas são propostas e ainda não representam um sistema implementado.
-
-## Disciplina
-
-Design Profissional — Projeto Integrador.
-
-
-
-## Link do repositório (PERFIL PROFISSIONAL)
-https://github.com/crocks221-spec/Perfil-Profissional
-
+**UNIPÊ — Ciência da Computação | Novembro de 2026**
