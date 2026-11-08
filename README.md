@@ -16,7 +16,7 @@ O objetivo deste projeto é apresentar uma solução educativa simples, com aula
 | 3 — Ética e cidadania digital | [Estudo de caso e riscos](Etapa-3-Etica-Digital/Etapa-3-Relatorio.md) | Documentado |
 | 4 — Problema social | [Diagnóstico de inclusão digital](Etapa-4-Diagnostico/README.md) | Documentado |
 | 5 — Solução tecnológica | [Especificações](Etapa-5-Solucao/README.md) e [protótipo](Etapa-5-Solucao/prototipo.html) | Protótipo criado |
-| 6 — Avaliação | [Roteiro de testes](Etapa-6-Testes/README.md) e [exemplo simulado](Etapa-6-Testes/EXEMPLO_SIMULADO.md) | Avaliação com participantes pendente |
+| 6 — Avaliação | [Roteiro de testes](Etapa-6-Testes/README.md) (inclui exemplo simulado identificado) | Avaliação com participantes pendente |
 | 7 — Relatório e defesa | [Relatório](Etapa-7-Relatorio/RELATORIO_FINAL_RASCUNHO.md), [apresentação](Etapa-7-Relatorio/APRESENTACAO.md), [diário](Etapa-7-Relatorio/DIARIO_MODELO.md) | Preparação concluída; evidências pendentes |
 
 ## Protótipo
@@ -31,4 +31,4 @@ As fontes constam nos relatórios de cada etapa. A pesquisa de mercado tem recor
 **UNIPÊ — Ciência da Computação | Novembro de 2026**
 
 ## Antes da entrega
-Confira o [roteiro final de conferência](CONFERENCIA_ENTREGA.md), com os registros que dependem de sua participação.
+Antes de entregar, confira os testes reais da Etapa 6, os oito relatos do diário e a versão final do relatório acadêmico.
