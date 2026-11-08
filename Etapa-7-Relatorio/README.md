@@ -55,3 +55,7 @@ Cada entrada deve informar: **o que precisava aprender; por quê; fontes; ativid
 - IBGE. Utilização da internet: https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47408-proporcao-de-usuarios-da-internet-no-pais-ultrapassou-90-da-populacao-de-10-anos-ou-mais-em-2025
 - Governo Digital. Acessibilidade: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/recursos-de-acessibilidade
 - W3C. WCAG 2.2: https://www.w3.org/TR/WCAG22/
+
+
+## Demonstração pelo QR code
+O slide 10 da apresentação PowerPoint com QR code aponta para esta [prévia interativa do protótipo](https://htmlpreview.github.io/?https://github.com/crocks221-spec/Projeto-Digitaliza/blob/main/Etapa-5-Solucao/prototipo.html). É uma prévia de terceiros do arquivo HTML do GitHub, e não uma publicação no GitHub Pages. A apresentação `.pptx` atualizada deve ser anexada ao repositório para ficar disponível aqui.
