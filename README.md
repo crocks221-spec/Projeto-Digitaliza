@@ -31,8 +31,8 @@ Desenvolver um protótipo de plataforma educacional que facilite o aprendizado d
 
 ## Etapas do desenvolvimento
 
-- [ ] Pesquisa do mercado de TI.
-- [ ] Planejamento profissional.
+- [x] Pesquisa do mercado de TI.
+- [x] Planejamento profissional.
 - [ ] Investigação ética.
 - [ ] Pesquisa sobre inclusão digital.
 - [ ] Desenvolvimento do protótipo no Figma.
@@ -46,3 +46,9 @@ Projeto em desenvolvimento acadêmico. As funcionalidades descritas são propost
 ## Disciplina
 
 Design Profissional — Projeto Integrador.
+
+
+
+## Link do repositório (PERFIL PROFISSIONAL)
+https://github.com/crocks221-spec/Perfil-Profissional
+
