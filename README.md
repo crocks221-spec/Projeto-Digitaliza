@@ -12,7 +12,7 @@ O objetivo deste projeto é apresentar uma solução educativa simples, com aula
 | Etapa | Material | Situação |
 |---|---|---|
 | 1 — Mercado de TI | [Planilha de 12 vagas](DIGITALIZA_ETAPA_1_FINAL.xlsx) | Pesquisa documentada |
-| 2 — Desenvolvimento profissional | [Plano de carreira](Etapa-2-Desenvolvimento-Profissional/PDI.md) e [perfil profissional](https://github.com/crocks221-spec/Perfil-Profissional) | Plano elaborado |
+| 2 — Desenvolvimento profissional | [Matriz de competências](Etapa-2-Desenvolvimento-Profissional/MATRIZ_COMPETENCIAS.md), [plano de carreira](Etapa-2-Desenvolvimento-Profissional/PDI.md) e [perfil profissional](https://github.com/crocks221-spec/Perfil-Profissional) | Plano elaborado |
 | 3 — Ética e cidadania digital | [Estudo de caso e riscos](Etapa-3-Etica-Digital/Etapa-3-Relatorio.md) | Documentado |
 | 4 — Problema social | [Diagnóstico de inclusão digital](Etapa-4-Diagnostico/README.md) | Documentado |
 | 5 — Solução tecnológica | [Especificações](Etapa-5-Solucao/README.md) e [protótipo](Etapa-5-Solucao/prototipo.html) | Protótipo criado |
@@ -29,3 +29,6 @@ Este é um projeto acadêmico em desenvolvimento. A existência de um protótipo
 As fontes constam nos relatórios de cada etapa. A pesquisa de mercado tem recorte limitado, e as análises devem ser interpretadas dentro desse contexto.
 
 **UNIPÊ — Ciência da Computação | Novembro de 2026**
+
+## Antes da entrega
+Confira o [roteiro final de conferência](CONFERENCIA_ENTREGA.md), com os registros que dependem de sua participação.
