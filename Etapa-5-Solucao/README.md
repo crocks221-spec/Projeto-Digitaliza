@@ -1,53 +1,51 @@
-# Etapa 5 — Concepção e protótipo DIGITALIZA
+# Etapa 5 — Protótipo DIGITALIZA (versão 2)
 
-## 5.1 Especificação
-**Solução:** DIGITALIZA — guia interativo de educação digital, sem cadastro, voltado a pessoas iniciantes. **Objetivo geral:** explicar tarefas digitais básicas com segurança e linguagem acessível. Objetivos específicos: organizar conteúdos, propor exemplos práticos, orientar sobre golpes e favorecer navegação simples.
+**Autor:** Mateus Aragão França · Ciência da Computação — UNIPÊ
 
-**Público:** pessoas com pouca familiaridade com a internet, incluindo idosos e estudantes. **Necessidade:** aprender no próprio ritmo sem expor dados pessoais.
+## O que foi atualizado
+O protótipo passou de uma demonstração linear para uma plataforma educativa com **quatro trilhas interativas**: internet, segurança digital, e-mail básico e uso do celular.
 
-**Requisitos funcionais (RF)**
-- RF01: mostrar página inicial e assuntos disponíveis.
-- RF02: permitir escolher trilha de aprendizagem.
-- RF03: exibir orientações em etapas.
-- RF04: apresentar dicas para reconhecer links suspeitos.
-- RF05: oferecer questionário com feedback imediato.
-- RF06: permitir retornar ao início e trocar de assunto.
-- RF07: alternar texto ampliado.
-- RF08: apresentar conclusão e próximo passo.
+Cada trilha contém **três passos de aprendizagem**, uma pergunta de fixação com três alternativas, feedback específico e tela final. A página inicial indica o número de trilhas concluídas, e cada aula mostra uma barra de progresso.
 
-**Não funcionais (RNF)**
-- RNF01: layout adaptável a celular e computador.
-- RNF02: navegação com teclado e rótulos compreensíveis.
-- RNF03: contraste legível e textos claros.
-- RNF04: não solicitar nem armazenar dados identificáveis.
-- RNF05: funcionar sem servidor ou bibliotecas externas no protótipo.
+Foram adicionados: menu inicial, cartões de cursos, botões para retornar e avançar, opção de aumentar texto, contraste reforçado, layout para celular, foco visível ao navegar com teclado e mensagens de feedback acessíveis.
 
-**Tecnologias:** HTML, CSS e JavaScript sem backend. **Recursos:** computador, editor de código, navegador e hospedagem estática opcional. **Limitações:** não ensina a usar serviços reais dentro do site; quiz é demonstrativo e não comprova aprendizagem. **Indicadores futuros:** conclusão de tarefas e compreensão observada em teste com voluntários.
+## Como executar
+Baixe [prototipo.html](prototipo.html) e abra no navegador. Não é preciso instalar programas nem criar conta.
 
-## 5.2 Modelagem
-**Diagrama de funcionamento:** Início → Escolha de aula → Conteúdo passo a passo → Dica de segurança → Quiz → Feedback → Conclusão → Início.
+**Importante:** este é um protótipo **HTML, CSS e JavaScript**, não um arquivo editável do Figma. O projeto original do Figma só poderá ser alterado diretamente quando o arquivo ou link com acesso adequado for disponibilizado.
 
-**Fluxo de interação:** acessar site → ler objetivo → selecionar “Começar” → escolher tema → avançar pelas orientações → responder questão → conferir feedback → concluir.
+## Requisitos funcionais implementados
+RF01 — apresentar a tela inicial e catálogo de cursos.  
+RF02 — escolher entre quatro trilhas.  
+RF03 — avançar e retornar entre instruções.  
+RF04 — realizar um exercício por trilha.  
+RF05 — informar imediatamente se a alternativa está correta.  
+RF06 — ampliar/reduzir o texto.  
+RF07 — ativar/desativar contraste reforçado.  
+RF08 — exibir o progresso das trilhas concluídas durante a sessão.  
+RF09 — reiniciar uma trilha e voltar ao catálogo.
 
-**Arquitetura conceitual:** Navegador ↔ [HTML (estrutura) + CSS (visual) + JS (estados e feedback)]; **sem** banco de dados, API ou coleta de dados.
+## Requisitos não funcionais
+Interface responsiva; botões com rótulos legíveis; estados de foco ao utilizar teclado; sem imagens pesadas; sem conta, banco de dados ou envio de dados a servidores.
 
-**Histórias e critérios de aceitação**
-1. Como iniciante, quero localizar uma aula. **Aceite:** tema pode ser escolhido em até dois cliques a partir do início.
-2. Como leitor com dificuldade visual, quero ampliar textos. **Aceite:** controle de texto altera o tamanho sem quebrar a navegação.
-3. Como aprendiz, quero ver dicas em etapas. **Aceite:** botões anterior/próximo mostram sequência.
-4. Como usuário preocupado com golpes, quero praticar uma situação. **Aceite:** quiz apresenta duas opções e explica a escolha.
-5. Como usuário, quero reiniciar sem criar conta. **Aceite:** retorno à página inicial sem preencher dados.
+## Fluxo e arquitetura
+**Início → Catálogo → Trilha → Passos 1, 2 e 3 → Quiz → Feedback → Conclusão → Catálogo.**
 
-**Prioridades:** P0 início, aulas, navegação; P1 quiz e feedback, responsividade; P2 ampliação de texto e ajustes após testes.
+Tecnologias: HTML (conteúdo semântico), CSS (design responsivo e contraste) e JavaScript (navegação, exercícios e progresso em memória).
 
-## 5.3 Protótipo
-Abrir [prototipo.html](prototipo.html) no navegador. São **7 estados**: início, temas, aula 1, aula 2, segurança, quiz e conclusão. É uma demonstração funcional local em HTML/CSS/JS, **não** um produto validado.
+## Histórias de usuário e critérios de aceitação
+1. **Iniciante:** quero escolher um tema. **Aceite:** quatro trilhas aparecem na tela inicial.
+2. **Aprendiz:** quero seguir instruções no meu ritmo. **Aceite:** posso avançar e voltar pelos três passos.
+3. **Aprendiz:** quero praticar. **Aceite:** cada trilha apresenta quiz com feedback.
+4. **Pessoa com dificuldade de leitura:** quero aumentar o texto. **Aceite:** botão A+ altera o tamanho.
+5. **Pessoa com necessidade de contraste:** quero reforçar a visibilidade. **Aceite:** botão Contraste alterna o tema.
+6. **Estudante:** quero acompanhar o que concluí. **Aceite:** indicador de trilhas concluídas aumenta após respostas corretas.
 
-## 5.4 Responsabilidade tecnológica
-- **Privacidade:** nenhum formulário de nome, e-mail ou CPF; não há banco de dados.
-- **Segurança:** conteúdo educativo; avisos para nunca fornecer senhas em links desconhecidos.
-- **Acessibilidade:** controles grandes, alto contraste, semântica HTML, foco visível e textos simples; avaliação WCAG completa ainda necessária.
-- **Inclusão:** conteúdo curto, linguagem simples e adaptação para celular.
-- **IA:** não há geração automática de respostas na interface; conteúdos devem ser revisados manualmente.
-- **Sustentabilidade:** poucos arquivos, sem vídeos pesados nem dependências.
-- **Possíveis efeitos negativos:** falsa sensação de segurança ou excesso de simplificação; mitigação por alertas, fontes confiáveis e revisão.
+## Limitações e testes necessários
+O progresso fica apenas na memória da aba; ao recarregar, ele zera. As interações são educativas e não equivalem a uma plataforma de cursos completa. Ainda é necessário avaliar a acessibilidade com ferramentas apropriadas e executar testes reais com os participantes previstos na Etapa 6. A atualização de interface não comprova, por si só, maior facilidade de uso.
+
+## Histórico de versões
+- **V1:** percurso linear com orientações e quiz único.
+- **V2:** quatro trilhas, navegação independente, quiz em cada uma, barras de progresso e ferramentas de acessibilidade básica.
+
+A V2 representa uma evolução de funcionalidades. Comparações de usabilidade com participantes ainda dependem de avaliação real.
