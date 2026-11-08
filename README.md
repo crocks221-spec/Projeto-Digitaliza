@@ -20,7 +20,7 @@ O objetivo deste projeto é apresentar uma solução educativa simples, com aula
 | 7 — Relatório e defesa | [Relatório](Etapa-7-Relatorio/RELATORIO_FINAL_RASCUNHO.md), [apresentação](Etapa-7-Relatorio/APRESENTACAO.md), [diário](Etapa-7-Relatorio/DIARIO_MODELO.md) | Preparação concluída; evidências pendentes |
 
 ## Protótipo
-O protótipo foi feito com HTML, CSS e JavaScript. Para conferir, baixe [prototipo.html](Etapa-5-Solucao/prototipo.html) e abra o arquivo no navegador. É possível navegar pelas aulas, ampliar o texto e responder a uma questão sobre segurança digital.
+A versão 2 do protótipo foi feita com HTML, CSS e JavaScript. Para conferir, baixe [prototipo.html](Etapa-5-Solucao/prototipo.html) e abra o arquivo no navegador. É possível escolher quatro trilhas, avançar pelas aulas, realizar exercícios com feedback, acompanhar o progresso da sessão, ampliar o texto e alternar o contraste.
 
 ## Limitações
 Este é um projeto acadêmico em desenvolvimento. A existência de um protótipo não demonstra que ele seja acessível ou eficaz para todos os públicos. A avaliação com cinco voluntários adultos, os resultados e as melhorias baseadas em observação ainda precisam ser documentados.
