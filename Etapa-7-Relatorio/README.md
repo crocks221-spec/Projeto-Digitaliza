@@ -58,4 +58,4 @@ Cada entrada deve informar: **o que precisava aprender; por quê; fontes; ativid
 
 
 ## Demonstração pelo QR code
-O slide 10 da apresentação PowerPoint com QR code aponta para esta [prévia interativa do protótipo](https://htmlpreview.github.io/?https://github.com/crocks221-spec/Projeto-Digitaliza/blob/main/Etapa-5-Solucao/prototipo.html). É uma prévia de terceiros do arquivo HTML do GitHub, e não uma publicação no GitHub Pages. A apresentação `.pptx` atualizada deve ser anexada ao repositório para ficar disponível aqui.
+A apresentação com QR code, quando anexada ao repositório, aponta para esta [prévia interativa do protótipo](https://htmlpreview.github.io/?https://github.com/crocks221-spec/Projeto-Digitaliza/blob/main/Etapa-5-Solucao/prototipo.html). É uma prévia de terceiros do arquivo HTML do GitHub, e não uma publicação no GitHub Pages. A apresentação `.pptx` atualizada deve ser anexada ao repositório para ficar disponível aqui.
