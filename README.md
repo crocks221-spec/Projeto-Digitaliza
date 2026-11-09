@@ -17,7 +17,7 @@ O objetivo deste projeto é apresentar uma solução educativa simples, com aula
 | 4 — Problema social | [Diagnóstico de inclusão digital](Etapa-4-Diagnostico/README.md) | Documentado |
 | 5 — Solução tecnológica | [Especificações](Etapa-5-Solucao/README.md) e [protótipo](Etapa-5-Solucao/prototipo.html) | Protótipo criado |
 | 6 — Avaliação | [Roteiro de testes](Etapa-6-Testes/README.md) (inclui exemplo simulado identificado) | Avaliação com participantes pendente |
-| 7 — Relatório e defesa | [Relatório](Etapa-7-Relatorio/RELATORIO_FINAL_RASCUNHO.md), [apresentação](Etapa-7-Relatorio/APRESENTACAO.md), [diário](Etapa-7-Relatorio/DIARIO_MODELO.md) | Preparação concluída; evidências pendentes |
+| 7 — Relatório e defesa | [Relatório](Etapa-7-Relatorio/RELATORIO_FINAL.md), [apresentação](Etapa-7-Relatorio/APRESENTACAO.md), [diário](Etapa-7-Relatorio/DIARIO_MODELO.md) | Preparação concluída; evidências pendentes |
 
 ## Protótipo
 A versão 2 do protótipo foi feita com HTML, CSS e JavaScript. Para conferir, baixe [prototipo.html](Etapa-5-Solucao/prototipo.html) e abra o arquivo no navegador. É possível escolher quatro trilhas, avançar pelas aulas, realizar exercícios com feedback, acompanhar o progresso da sessão, ampliar o texto e alternar o contraste.
