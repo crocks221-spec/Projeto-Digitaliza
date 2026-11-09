@@ -20,7 +20,7 @@ Este diário reúne as atividades documentadas e o retorno relatado sobre o prot
 
 ## Registro 2 — Competências e gráficos
 
-**Data de referência:** Primeira semana de novembro de 2026 — conferir a data  
+**Data de referência:** Primeira semana de novembro de 2026 (data a confirmar)  
 **O que precisava aprender:** Transformar descrições de vagas em dados comparáveis.  
 **Por que era necessário:** Identificar padrões entre as funções estudadas.  
 **Fontes e materiais:** Anúncios da Etapa 1 e orientação do projeto integrador.  
@@ -31,7 +31,7 @@ Este diário reúne as atividades documentadas e o retorno relatado sobre o prot
 
 ## Registro 3 — Perfil e planejamento profissional
 
-**Data de referência:** Início de novembro de 2026 — conferir a data  
+**Data de referência:** Início de novembro de 2026 (data a confirmar)  
 **O que precisava aprender:** Apresentar minha formação, habilidades e objetivos de carreira.  
 **Por que era necessário:** Construir um portfólio coerente com os conhecimentos que tenho e pretendo desenvolver.  
 **Fontes e materiais:** Atividades da disciplina, GitHub e pesquisa de vagas.  
@@ -42,7 +42,7 @@ Este diário reúne as atividades documentadas e o retorno relatado sobre o prot
 
 ## Registro 4 — Ética e cidadania digital
 
-**Data de referência:** Novembro de 2026 — conferir a data  
+**Data de referência:** Novembro de 2026 (data a confirmar)  
 **O que precisava aprender:** Relacionar privacidade, dados pessoais e responsabilidade ao desenvolvimento de sistemas.  
 **Por que era necessário:** Evitar que uma solução útil produza consequências negativas para usuários.  
 **Fontes e materiais:** Materiais da FTC sobre Cambridge Analytica, LGPD e orientações acadêmicas.  
@@ -86,7 +86,7 @@ Este diário reúne as atividades documentadas e o retorno relatado sobre o prot
 
 ## Registro 8 — Avaliação e melhoria
 
-**Data de referência:** Novembro de 2026 — confirmar dia da avaliação  
+**Data de referência:** Novembro de 2026 (data a confirmar)  
 **O que precisava aprender:** Observar a experiência de outras pessoas ao utilizar o protótipo.  
 **Por que era necessário:** Verificar se as instruções e os botões são compreensíveis.  
 **Fontes e materiais:** Roteiro da Etapa 6 e retorno verbal dos participantes relatado pelo estudante.  
@@ -104,4 +104,4 @@ Este diário reúne as atividades documentadas e o retorno relatado sobre o prot
 - [Protótipo e documentação](../Etapa-5-Solucao/)
 - [Roteiro e síntese das avaliações](../Etapa-6-Testes/)
 
-**Conferência antes da entrega:** confirmar datas e experiências pessoais, além de incluir evidências dos conhecimentos novos efetivamente estudados. O retorno verbal dos cinco avaliadores não substitui fichas de tarefas individuais.
+**Conferência antes da entrega:** confirmar datas e experiências pessoais, além de incluir evidências dos conhecimentos novos efetivamente estudados. O retorno verbal dos cinco avaliadores foi registrado como avaliação qualitativa; não foram calculadas métricas por tarefa.
