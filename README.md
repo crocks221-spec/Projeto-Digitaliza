@@ -30,5 +30,4 @@ As fontes constam nos relatórios de cada etapa. A pesquisa de mercado tem recor
 
 **UNIPÊ — Ciência da Computação | Novembro de 2026**
 
-## Antes da entrega
-Antes de entregar, confira os testes reais da Etapa 6, os oito relatos do diário e a versão final do relatório acadêmico.
+
