@@ -1,5 +1,5 @@
 # DIGITALIZA — Tecnologia ao Alcance de Todos
-## Relatório técnico-científico integrado — versão de revisão
+## Relatório técnico-científico integrado
 
 **Autor:** Mateus Aragão França  
 **Instituição:** UNIPÊ | **Curso:** Ciência da Computação  
@@ -87,7 +87,7 @@ O percurso inclui sete estados: acolhimento, escolha da trilha, duas aulas, dica
 ## 9. Plano de testes e resultados
 Foram elaboradas cinco tarefas para verificar localização de aulas, navegação, compreensão de dicas, resposta ao quiz e ampliação de texto. O roteiro prevê cinco participantes adultos e registro anonimizado dos resultados.
 
-**Estado atual:** a avaliação com usuários não foi realizada ou documentada neste repositório. Por essa razão, não há taxas de conclusão, falhas observadas, relatos de participantes ou comparação fundamentada entre versões. Os pontos de melhoria listados no plano são hipóteses e deverão ser confirmados antes de uma conclusão sobre usabilidade.
+**Estado atual:** o estudante relatou que cinco pessoas experimentaram o protótipo e o avaliaram de forma positiva, destacando sua interatividade e facilidade de uso. A sugestão apontada foi ampliar as trilhas. Não há fichas individuais de tarefas anexadas. Por essa razão, não há taxas de conclusão, falhas observadas, relatos de participantes ou comparação fundamentada entre versões. Os pontos de melhoria listados no plano são hipóteses e deverão ser confirmados antes de uma conclusão sobre usabilidade.
 
 Após a coleta, a análise deverá reunir resultados em tabela, calcular taxas, classificar os problemas encontrados, priorizar ao menos três melhorias e comparar a versão inicial à revisada. Os registros devem preservar a privacidade dos participantes e deixar claro que se trata de teste exploratório.
 
@@ -110,3 +110,10 @@ A maior limitação atual é a ausência de testes com participantes e de valida
 Etapa 1: planilha de vagas; Etapa 2: PDI e perfil profissional; Etapa 3: estudo ético; Etapa 4: diagnóstico; Etapa 5: especificação e protótipo; Etapa 6: roteiro de testes; Etapa 7: apresentação e diário.
 
 > **Observação de integridade acadêmica:** este texto integra os materiais já preparados, mas ainda precisa de revisão pessoal, conferência de referências e ampliação conforme a extensão recomendada de 15–35 páginas. Não representa testes realizados.
+
+
+## 12. Síntese do retorno sobre o protótipo
+O estudante relatou uma avaliação com cinco pessoas que consideraram o protótipo muito bom e interativo, sem dificuldades relatadas. A sugestão comum foi ampliar o número de conteúdos das trilhas. Trata-se de feedback qualitativo informado, sem medições individuais ou tempo de execução. Os dados de simulação apresentados anteriormente não são resultados observados.
+
+## 13. Evolução e próximos passos
+A segunda versão do DIGITALIZA acrescentou quatro trilhas, exercícios com retorno imediato, acompanhamento temporário do progresso e ajustes de texto e contraste. Como continuidade, a recomendação é expandir as lições, registrar os testes em fichas anonimizadas e realizar uma avaliação de acessibilidade que inclua teclado e tecnologias assistivas. Essas ações constituem oportunidades de evolução, não resultados comprovados.
